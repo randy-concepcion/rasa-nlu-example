@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Rasa -- ignore models
+**/models/*.tar.gz
